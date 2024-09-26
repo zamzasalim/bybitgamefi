@@ -12,3 +12,7 @@
 ```
 bash <(curl -s https://data.zamzasalim.xyz/file/uploads/bybitgamefi.sh)
 ```
+## For Termux
+```
+bash <(curl -s https://data.zamzasalim.xyz/file/uploads/bybitgamefi-mux.sh)
+```
